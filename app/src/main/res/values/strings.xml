@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Androidx Dummy</string>
+    <string name="SERVER_CLIENT_ID">300546563953-aikla9rtfvq4rkc3jh4vngjbeek63ru6.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">544133823072602</string>
+    <string name="fb_login_protocol_scheme">fb[544133823072602]</string>
+</resources>
